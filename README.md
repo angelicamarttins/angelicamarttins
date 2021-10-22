@@ -24,3 +24,7 @@
   <img align="center" alt="Angelica-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Angelica-npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
 </div>
+
+  ##
+  
+  ![Snake animation](https://github.com/angelicamarttins/angelicamarttins/blob/output/github-contribution-grid-snake.svg)
