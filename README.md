@@ -11,7 +11,7 @@ Currently, self-taught development student focused in front-end technologies. Or
 <div>
   <div>
     <a href="https://www.linkedin.com/in/marttinsangelica/">
-    <img src="https://github-readme-stats.vercel.app/api?username=angelicamarttins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=angelicamarttins&show_icons=true&theme=dracula&include_commits_all=true&count_private=true">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=angelicamarttins&layout=compact&langs_count16&theme=dracula">
   </div>
   
