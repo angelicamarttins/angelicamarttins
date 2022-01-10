@@ -18,6 +18,7 @@ Currently, self-taught development student focused in front-end technologies. Or
   <br />
   
   ## ⏳ I'm currently studying... 
+  <img align="center" alt="Angelica-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Angelica-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
   <br />
@@ -26,6 +27,8 @@ Currently, self-taught development student focused in front-end technologies. Or
   <div style="display: inline_block"><br>
     <img align="center" alt="Angelica-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Angelica-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Angelica-npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
+    <img align="center" alt="Angelica-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
     <img align="center" alt="Angelica-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="Angelica-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
     <img align="center" alt="Angelica-PhotoShop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
@@ -33,14 +36,14 @@ Currently, self-taught development student focused in front-end technologies. Or
   
   <br />
   
-  ## ⏰ Coming soon...
+<!--   ## ⏰ Coming soon...
   <div style="display: inline_block"><br>
-    <img align="center" alt="Angelica-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-    <img align="center" alt="Angelica-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-    <img align="center" alt="Angelica-npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
-  </div>
+    
 
   <br />
+  </div> -->
+
+ 
   
   ## 📞 Get in touch...
   <div> 
