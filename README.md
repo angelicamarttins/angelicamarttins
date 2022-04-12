@@ -18,12 +18,14 @@ Currently, self-taught development student focused in front-end technologies. Or
   <br />
   
   ## ⏳ I'm currently studying... 
-  <img align="center" alt="Angelica-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Angelica-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
+  <div>
+    <img align="center" alt="Angelica-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <img align="center" alt="Angelica-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  </div>
+    
   <br />
   
-  ## ⌛ I have consolidated intermediate knowledge in...
+  ## 📚 I have consolidated intermediate knowledge in...
   <div style="display: inline_block"><br>
     <img align="center" alt="Angelica-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Angelica-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -34,6 +36,12 @@ Currently, self-taught development student focused in front-end technologies. Or
     <img align="center" alt="Angelica-PhotoShop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   </div>
   
+  ## And I'm always practicing algorithms  
+  <div>
+    <a href="https://www.codewars.com/users/angelicamarttins">
+    <img align="center" alt="Angelica-CodeWars" src="https://www.codewars.com/users/angelicamarttins/badges/small">
+  </div>  
+    
   <br />
   
 <!--   ## ⏰ Coming soon...
