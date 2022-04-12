@@ -36,7 +36,7 @@ Currently, self-taught development student focused in front-end technologies. Or
     <img align="center" alt="Angelica-PhotoShop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   </div>
   
-  ## And I'm always practicing algorithms  
+  ## And I'm always practicing algorithms...  
   <div>
     <a href="https://www.codewars.com/users/angelicamarttins">
     <img align="center" alt="Angelica-CodeWars" src="https://www.codewars.com/users/angelicamarttins/badges/small">
