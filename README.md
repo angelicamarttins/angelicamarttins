@@ -1,6 +1,6 @@
 # Hello, I'm Angélica Martins! 😎
 
-Currently, self-taught development student focused in front-end technologies. Originally, Philosophy teacher and Master in Political Philosophy at the Federal University of ABC (UFABC).
+Currently, dev front-end at Marvin and self-taught development student focused in front-end technologies. Originally, Philosophy teacher and Master in Political Philosophy at the Federal University of ABC (UFABC).
 
 ### Feel free to open issues in my projects and tell me how to improve my skills. 
 
@@ -20,6 +20,7 @@ Currently, self-taught development student focused in front-end technologies. Or
   ## ⏳ I'm currently studying... 
   <div>
     <img align="center" alt="Angelica-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <img align="center" alt="Angelica-npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> 
     <img align="center" alt="Angelica-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </div>
     
@@ -30,6 +31,7 @@ Currently, self-taught development student focused in front-end technologies. Or
     <img align="center" alt="Angelica-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Angelica-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Angelica-npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
+    <img align="center" alt="Angelica-npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg"> 
     <img align="center" alt="Angelica-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
     <img align="center" alt="Angelica-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="Angelica-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
