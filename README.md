@@ -1,6 +1,6 @@
 # Hello, I'm Angélica Martins! 😎
 
-Currently, dev front-end at [Marvin](https://www.marvin.com.vc/) and self-taught development student focused in front-end technologies. Originally, Philosophy teacher and Master in Political Philosophy at the Federal University of ABC (UFABC).
+Currently, dev front-end at [Marvin](https://www.marvin.com.vc/) and self-taught development student focused in front-end technologies. Originally, Philosophy teacher and Master in Political Philosophy at Universidade Federal do ABC (UFABC).
 
 ### Feel free to open issues in my projects and tell me how to improve my skills. 
 
