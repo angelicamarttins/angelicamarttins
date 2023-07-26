@@ -1,6 +1,6 @@
 # Hello, I'm Angélica Martins! 😎
 
-Currently, dev front-end at [Marvin](https://www.marvin.com.vc/) and self-taught development student focused in front-end technologies. Originally, Philosophy teacher and Master in Political Philosophy at Universidade Federal do ABC (UFABC).
+Currently, I'm fullstack developer at [Marvin](https://www.marvin.com.vc/) and self-taught development student focused in back-end technologies. Originally, Philosophy teacher and Master in Political Philosophy at Universidade Federal do ABC (UFABC).
 
 ### Feel free to open issues in my projects and tell me how to improve my skills. 
 
@@ -19,15 +19,18 @@ Currently, dev front-end at [Marvin](https://www.marvin.com.vc/) and self-taught
   
   ## ⏳ I'm currently studying... 
   <div>
-    <img align="center" alt="Angelica-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-    <img align="center" alt="Angelica-npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> 
-    <img align="center" alt="Angelica-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Angelica-Java" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+    <img align="center" alt="Angelica-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+    <img align="center" alt="Angelica-Postgresql" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
   </div>
     
   <br />
   
-  ## 📚 I have consolidated intermediate knowledge in...
+  ## 📚 I have consolidated knowledge in...
   <div style="display: inline_block"><br>
+    <img align="center" alt="Angelica-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <img align="center" alt="Angelica-npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> 
+    <img align="center" alt="Angelica-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Angelica-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Angelica-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Angelica-npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
@@ -35,7 +38,6 @@ Currently, dev front-end at [Marvin](https://www.marvin.com.vc/) and self-taught
     <img align="center" alt="Angelica-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
     <img align="center" alt="Angelica-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="Angelica-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-    <img align="center" alt="Angelica-PhotoShop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   </div>
   
   ## And I'm always practicing algorithms...  
@@ -46,19 +48,18 @@ Currently, dev front-end at [Marvin](https://www.marvin.com.vc/) and self-taught
     
   <br />
   
-<!--   ## ⏰ Coming soon...
-  <div style="display: inline_block"><br>
-    
-
-  <br />
-  </div> -->
+## ⏰ Coming soon...
+  <div style="display: inline_block">
+    <img align="center" alt="Angelica-Linux" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    <br />
+  </div> 
 
  
   
   ## 📞 Get in touch...
   <div> 
-    <a href="https://www.linkedin.com/in/marttinsangelica/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:marttinsangelica@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/marttinsangelica/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <a href = "mailto:marttinsangelica@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
  
    </div>
     
