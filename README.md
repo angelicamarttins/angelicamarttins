@@ -1,6 +1,6 @@
 # Hello, I'm Angélica Martins! 😎
 
-Currently, I'm fullstack developer at [Marvin](https://www.marvin.com.vc/) and self-taught development student focused in back-end technologies. Originally, Philosophy teacher and Master in Political Philosophy at Universidade Federal do ABC (UFABC).
+Currently, I'm fullstack developer at Marvin and self-taught development student focused in back-end technologies. Originally, Philosophy teacher and Master in Political Philosophy at Universidade Federal do ABC (UFABC).
 
 ### Feel free to open issues in my projects and tell me how to improve my skills. 
 
