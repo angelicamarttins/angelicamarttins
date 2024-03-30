@@ -12,7 +12,8 @@ Currently, I'm backend developer at Marvin and self-taught development student f
   <div>
     <a href="https://www.linkedin.com/in/marttinsangelica/">
     <img src="https://github-readme-stats.vercel.app/api?username=angelicamarttins&show_icons=true&theme=tokyonight&count_private=true&include_commits=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=angelicamarttins&layout=compact&langs_count16&theme=tokyonight">
+      <br />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=angelicamarttins&layout=compact&langs_count16&theme=tokyonight" >
   </div>
   
   <br />
