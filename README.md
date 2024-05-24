@@ -69,8 +69,3 @@ Currently, I'm backend developer at Marvin and self-taught development student f
   
      
  ![Snake animation](https://github.com/angelicamarttins/angelicamarttins/blob/output/github-contribution-grid-snake.svg)
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <img alt="github-snake" src="https://github.com/angelicamarttins/angelicamarttins/blob/output/github-contribution-grid-snake.svg" />
-</picture>
-  
