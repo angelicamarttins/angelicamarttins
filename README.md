@@ -68,4 +68,4 @@ Currently, I'm backend developer at Marvin and self-taught development student f
 </div>
   
      
- ![Snake animation](https://github.com/angelicamarttins/angelicamarttins/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/angelicamarttins/angelicamarttins/blob/output/github-contribution-grid-snake-dark.svg)
