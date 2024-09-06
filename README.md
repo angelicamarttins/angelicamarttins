@@ -1,6 +1,6 @@
 # Hello, I'm Angélica Martins! 😎
 
-Currently, I'm backend developer at Marvin and self-taught development student focused in back-end technologies. Originally, Philosophy teacher and Master in Political Philosophy at Universidade Federal do ABC (UFABC).
+Currently, I'm backend developer at [Itaú Unibanco](https://www.itau.com.br/) and self-taught development student focused in back-end technologies. Originally, Philosophy teacher and Master in Political Philosophy at Universidade Federal do ABC (UFABC).
 
 ### Feel free to open issues in my projects and tell me how to improve my skills. 
 
