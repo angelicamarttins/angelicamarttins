@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=angelicamarttins.angelicamarttins" />
+
 # Hello, I'm Angélica Martins! 😎
 
 Currently, I'm backend developer at [Itaú Unibanco](https://www.itau.com.br/) and self-taught development student focused in back-end technologies. Originally, Philosophy teacher and Master in Political Philosophy at Universidade Federal do ABC (UFABC).
